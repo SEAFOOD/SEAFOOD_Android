@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Seafood_Android_1"
